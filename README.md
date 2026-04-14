@@ -1,30 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Hiwot%20Tariku&fontSize=50&fontColor=white&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=250&section=header&text=Hiwot%20Tariku&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=35" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&center=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Laravel+%7C+Node.js;IT+Student+%26+Cisco+Enthusiast;Building+the+Web%2C+One+Commit+at+a+Time" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Status-Coding%20%E2%9A%A1-FF512F?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Available%20for-Collaboration-00C853?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Mentorship-2196F3?style=for-the-badge&logo=google-classroom&logoColor=white" />
 </div>
-
-<h1 align="center">
-  👩‍💻 Full-Stack Web Developer
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=500&lines=React+%7C+Laravel+%7C+Node.js;Cisco+Networking+Enthusiast;IT+Student+%26+Problem+Solver;Building+E-commerce+Experiences" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IT%20Student-4ECDC4?style=for-the-badge&logo=google-classroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
 
 ---
 
-## 🌸 About Me
+## 🌟 **One-Line Bio**
 
+> *"Turning coffee into code, ideas into reality, and bugs into features."*
 
-name: Hiwot Tariku
-role: Full-Stack Web Developer
-pronouns: she/her
-currently_working_on: E-commerce Platform
-currently_learning: Next.js
-collaboration_interest: Local Vendor Finder App
-fun_fact: "I am funny 😄"
+---
+
+## 👩‍💻 **About Me**
+
+```mermaid
+mindmap
+  root((Hiwot Tariku))
+    Currently Working
+      E-commerce Platform
+    Learning
+      Next.js
+      Advanced TypeScript
+    Want to Collaborate
+      Local Vendor Finder App
+    Ask Me About
+      React
+      Laravel
+      JavaScript/TypeScript
+    Fun Fact
+      I am Funny 😄
+      Love solving puzzles
+    IT Journey
+      Cisco Networking
+      Web Development
