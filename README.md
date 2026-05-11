@@ -88,10 +88,10 @@ style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 25px #00f5
 <div align="center">
 
 <img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=hiwotitem&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=hiwititemm&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=hiwotitem&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=hiwititem&theme=tokyonight&hide_border=true"/>
 
 </div>
 
