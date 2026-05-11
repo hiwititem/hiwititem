@@ -1,47 +1,33 @@
-````md
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile.gif" width="320"/>
+<!-- ⭐ PROFILE IMAGE (your own image) -->
+<img src="assets/profile.png" width="180" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 25px #00f5ff;" />
 
-# Hi, I'm 👋
+<!-- ⭐ NAME WITH ANIMATION -->
+<h1 style="font-size: 2.5rem; background: linear-gradient(90deg,#00f5ff,#7c4dff,#00f5ff);
+-webkit-background-clip: text; color: transparent;
+animation: glow 3s infinite alternate;">
+Hi, I'm Hiwot Tariku 👋
+</h1>
 
-# Hiwot Tariku
+<h3>Full-Stack Developer 🚀</h3>
 
-### Full-Stack Developer 🚀
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Enthusiast;Laravel+Developer;Cisco+Networking+Student;Building+Modern+Web+Experiences" />
-
-<br>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-</div>
+<!-- ⭐ TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=React+Developer;Node.js+Backend+Engineer;Laravel+Developer;Cisco+Networking+Enthusiast;Always+Learning+New+Things" />
 
 ---
 
-# 💻 Developer Code
+## ⚡ About Me
 
-```javascript
-const developer = {
+```js
+const hiwot = {
   name: "Hiwot Tariku",
-  role: "Full-Stack Developer 🚀",
-  passion: "Building the Web",
-  learning: "Every Day",
-  goal: "Make an Impact",
-};
-
-while(alive){
-   code();
-   learn();
-   build();
-   repeat();
+  role: "Full-Stack Developer",
+  stack: ["React", "Node.js", "Laravel"],
+  passion: "Building modern web apps",
+  learning: "Every single day",
+  goal: "Make real impact 🚀"
 }
-````
-
----
 
 # 🌟 About Me
 
