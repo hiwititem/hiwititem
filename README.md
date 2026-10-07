@@ -1,138 +1,89 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6A0DAD,100:FF69B4&height=220&section=header&text=🌸%20Welcome%20to%20Hiwot's%20Code%20Space%20💻&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Hiwot%20Tariku&fontSize=42&fontAlignY=35&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=IT+Professional;Web+Developer;React+%7C+Next.js+%7C+Laravel;Cisco+Networking+Enthusiast;Always+Learning+%26+Building+🚀" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hiwot+Tariku+%F0%9F%91%8B;IT+Graduate+%7C+Full-Stack+Developer+%F0%9F%92%BB;I+love+turning+creative+ideas+into+digital+experiences+%F0%9F%8C%B8;Building+modern+web+applications+%F0%9F%9A%80;Welcome+to+my+coding+space+%F0%9F%8C%B8" alt="Typing SVG" />
+<a href="https://github.com/hiwititem">
+<img src="https://komarev.com/ghpvc/?username=hiwititem&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
-
-<!-- ======================= ABOUT ME ======================= -->
-
-## 🌸 About Me
-
-<img align="right" width="320" src="./assets/anime-girl.gif" alt="Anime Developer Girl"/>
-
-👋 Hi! I'm **Hiwot Tariku**, an **IT Graduate & Full-Stack Developer**.
-
-I love turning creative ideas into useful and beautiful digital experiences.
-
-💻 I enjoy building full-stack web applications  
-🚀 Passionate about modern web technologies  
-🎨 I care about clean and attractive user interfaces  
-🧠 Always learning and improving my development skills  
-🌍 Open to remote opportunities, freelance projects and collaboration
-
-<br clear="right"/>
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### 🎨 Frontend
+## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,supabase" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,php,laravel,nodejs,express,mysql,supabase,git,github,vscode,cisco&perline=8" />
 
 </div>
 
 ---
-
-<!-- ======================= ANIMATED CODING ======================= -->
-
-## 💻 Currently Coding...
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=700&color=C084FC&center=true&vCenter=true&width=700&lines=const+developer+%3D+%22Hiwot%22%3B;import+React+from+%22react%22%3B;import+Next+from+%22next%22%3B;building+%3D+true%3B;dreams+%2B+code+%3D+%22something+amazing%22%3B" />
-
-</div>
-
----
-
-<!-- ======================= FEATURED PROJECTS ======================= -->
 
 ## 🚀 Featured Projects
 
-### 🏥 Clinic-System
+<a href="https://github.com/hiwititem/Ibex-full-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiwititem&repo=Ibex-full-website&theme=tokyonight&hide_border=true" />
+</a>
 
-**Full-stack Clinic Website & Application**
-
-A modern digital clinic platform designed to connect patients, doctors and clinic administration through a centralized system.
-
-**Technologies:**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `MySQL`
-
-🔗 Repository: `Coming Soon`
-
----
-
-### 💼 IBEX Technologies Website
-
-A modern and responsive company website developed to present services, projects, portfolio content and business information.
-
-**Technologies:**
-
-`Laravel` `PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-🔗 Repository: `Coming Soon`
-
----
-
-### 🛒 E-Commerce System
-
-A full-stack e-commerce platform focused on creating a modern shopping experience with product management and scalable application architecture.
-
-**Technologies:**
-
-`React` `Node.js` `Express.js` `MySQL` `Tailwind CSS`
-
-🔗 Repository: `Coming Soon`
-
----
-
-<!-- ======================= WHAT I'M LEARNING ======================= -->
-
-## 📚 Currently Learning
-
-<div align="center">
-
-🌐 **Advanced Full-Stack Development**  
-▲ **Next.js & TypeScript**  
-⚡ **Supabase & Backend Architecture**  
-🤖 **Artificial Intelligence Integration**  
-☁️ **Modern Cloud Technologies**
+<a href="https://clever-stardust-034d04.netlify.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiwititem&repo=clinic-system&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-<!-- ======================= GOALS ======================= -->
+<div align="center">
 
-## 🎯 My Developer Goals
+## 📊 GitHub Activity
 
-```text
-✓ Build real-world full-stack applications
-✓ Improve software architecture skills
-✓ Build beautiful and accessible interfaces
-✓ Learn and integrate AI into applications
-✓ Contribute to open-source projects
-✓ Work with great development teams
-✓ Build products that solve real problems
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hiwititem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiwititem&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=hiwititem&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/hiwot-tariku">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hiwititem@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portifolio-it.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hiwititem">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build • Learn • Improve • Repeat 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
